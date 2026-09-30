@@ -1,0 +1,6 @@
+{
+  "name": "OptiFiber ISP - Network & Fiber Tracing System",
+  "description": "Complete local ISP Fiber Network Documentation, Management, Maintenance, Core Splicing & Relationship Tracing System.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
